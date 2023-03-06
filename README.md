@@ -2,6 +2,7 @@
 Sebuah Aplikasi dengan fitur login
 
 Alur Fitur Login:
-Memasukkan email dan password
-Memvalidasi masukan.
-Menampilkan halaman beranda.
+
+1. Memasukkan email dan password
+2. Memvalidasi masukan.
+3. Menampilkan halaman beranda.
